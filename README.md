@@ -14,7 +14,7 @@ Following steps need to be followed
 # Custom authentication Usage
 
 * Open browser
-* http://<reportlocation>/logon.aspx
+* http://yourreportlocation/logon.aspx
 * First register testuser with 'test' as password. For now all the users should have the password as 'test'
 * Enter user name and password and click on logon 
 * Now you are ready to the use the report server
